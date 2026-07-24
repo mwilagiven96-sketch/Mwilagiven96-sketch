@@ -1,42 +1,30 @@
-# Hi, I'm Giverson Sandemba 👋
-**2nd Year IT Student | Zambia University College of Technology | Aspiring Cyber Security Specialist**
+# Giverson Sandemba - Cyber Security Portfolio
 
-I'm passionate about learning network defense, vulnerability assessment, and incident response. Currently building labs and documenting my cyber security journey.
+This is my personal portfolio website hosted with GitHub Pages.
 
----
+### 🌐 Live Website
+**[https://mwilagiven96-sketch.github.io](https://mwilagiven96-sketch.github.io)**
 
-### **🔧 Skills I'm Learning**
-- **Tools**: Kali Linux, Nmap, Wireshark, VirtualBox, Splunk
-- **Concepts**: Network Security, Vulnerability Scanning, SIEM, Incident Response
-- **Coding**: Python Basics, Bash Scripting
-- **Frameworks**: NIST CSF, MITRE ATT&CK
+### 👨‍💻 About Me
+Aspiring Cyber Security Specialist based in Ndola, Zambia. 
+Passionate about network defense, vulnerability assessment, and building home labs to learn.
 
----
+### 🔧 Skills
+- Kali Linux, Nmap, Wireshark
+- Splunk, SIEM, Vulnerability Scanning  
+- Python, Bash Scripting, VirtualBox
+- Network Security
 
-### **📂 Projects & Labs**
-#### **1. Home Lab Vulnerability Assessment**
-- **What**: Set up Kali Linux + Ubuntu VMs to scan a local network
-- **Tools**: Nmap, Nessus Essentials
-- **Result**: Identified 4 vulnerabilities and wrote a remediation report
+### 📂 Featured Projects
+1. **Home Lab Vulnerability Assessment** - Used Kali + Nmap to scan local network
+2. **SIEM Lab with Splunk** - Built SOC lab and created alerting rules
 
-#### **2. SIEM Lab - Splunk**
-- **What**: Ingested Windows event logs and created alerts for failed logins
-- **Tools**: Splunk Free, Windows 10 VM
-- **Result**: Built a dashboard to detect possible brute force attacks
-
----
-
-### **🎓 Learning & Certifications**
-- TryHackMe: Complete Beginner Path
+### 🎓 Education
+**Zambia University College of Technology** - Bachelor of IT
 - Cisco NetAcad: Introduction to Cybersecurity
-- ZUCT: Network Security, Linux Administration
+- TryHackMe: Complete Beginner Path
 
----
-
-### **📫 Let's Connect**
-- **Email**: mwilagiven96@gmail.com
-- **LinkedIn**: [Giverson Sandemba](https://www.linkedin.com/in/giverson-sandemba-161795265)
-- **GitHub**: github.com/mwilagiven96-sketch
-- **Location**: Ndola, Zambia
-
-*Currently open to internships and lab collaborations*
+### 📫 Connect
+- **Email:** mwilagiven96@gmail.com
+- **LinkedIn:** [Giverson Sandemba](https://www.linkedin.com/in/giverson-sandemba-161795265)
+- **GitHub:** [mwilagiven96-sketch](https://github.com/mwilagiven96-sketch)
